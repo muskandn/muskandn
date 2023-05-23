@@ -16,7 +16,7 @@
 
 - 🌱 I’m looking to contribute to **open source projects**
 
-- ⚡ More of me at my **[Portfolio Website](muskandn.netlify.app)**
+- ⚡ More of me at my **[Portfolio Website](https://muskandn.netlify.app/)**
 
 - 🤝 Pronouns: **she/her/hers**
  
