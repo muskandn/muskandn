@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muskan!
-<h3 align="center">I'm a passionate programmer who loves working with the latest technologies</h3>
+<h3 align="center">A passionate Full stack web developer from India.</h3>
 
  ## About Me
 
@@ -27,7 +27,7 @@
 ## Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&labelColor=white)
-](https://www.javascript.com/)  [![Solidity](https://img.shields.io/badge/-Solidity-616161?style=flat-square&logo=solidity&labelColor=white)
+](https://www.javascript.com/)  [![Python](https://img.shields.io/badge/-Python-616161?style=flat-square&logo=solidity&labelColor=white)
 ](https://docs.soliditylang.org/en/v0.8.13/) [![node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=node.js&labelColor=white)
 ](https://nodejs.org/en/) [![express.js](https://img.shields.io/badge/-express.js-259dff?style=flat-square&logo=express&logoColor=259dff&labelColor=white)
 ](https://expressjs.com/) [![postgreSQL](https://img.shields.io/badge/-PostgreSQL-32668f?style=flat-square&logo=postgresql&labelColor=white)
