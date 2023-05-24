@@ -20,7 +20,7 @@
  
 - 📫 Reach out to me at my **<a href="muskandn02@gmail.com">Email</a>**
 
-- ⚡ Fun fact **I like to do** **[Sketching and Painting](https://www.instagram.com/pic_c.h.a.s.e.r/)**
+- ⚡ Fun fact **I like to do** **[Designing](https://github.com/muskandn/GDP/tree/main/Graphics%20Designing%20Works)**
 
  
 
