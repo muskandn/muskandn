@@ -12,15 +12,16 @@
 
 - 👨‍💻 I'm a sophomore at **IIIT Gwalior studying Information Technology**
 
-- 🔭 I’m currently exploring the field of **Web Development**
+- 🔭 I’m currently working on the field of **Web Development**
 
 - 🌱 I’m looking to contribute to **open source projects**
 
-- ⚡ More of me at my **[Portfolio Website](https://muskandn.netlify.app/)**
-
-- 🤝 Pronouns: **she/her/hers**
+- 🤝 More of me at my **[Portfolio Website](https://muskandn.netlify.app/)**
  
 - 📫 Reach out to me at my **<a href="muskandn02@gmail.com">Email</a>**
+
+- ⚡ Fun fact **I like to do** **[Sketching and Painting](https://www.instagram.com/pic_c.h.a.s.e.r/)**
+
  
 
  
