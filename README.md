@@ -58,9 +58,7 @@
 <p align="left">
   
   
-  [![linkedin](https://img.shields.io/badge/-muskandn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muskandn/)      	
- [![gmail](https://img.shields.io/badge/-muskandn02%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muskandn02@gmail.com)  
- [![instagram](https://img.shields.io/badge/-%40pic_c.h.a.s.e.r-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pic_c.h.a.s.e.r/)
+  [![linkedin](https://img.shields.io/badge/-muskandn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muskandn/)       [![gmail](https://img.shields.io/badge/-muskandn02%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muskandn02@gmail.com)   [![instagram](https://img.shields.io/badge/-%40pic_c.h.a.s.e.r-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pic_c.h.a.s.e.r/)
 
 </p>
 
