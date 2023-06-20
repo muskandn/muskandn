@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muskan!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muskan!
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
