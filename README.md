@@ -48,9 +48,10 @@
 
 
   <p align="center">
-    <a href="https://github.com/muskandn/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&theme=radical)
-  <a href="https://github.com/muskandn/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=radical)
+   
   <br/>
  <p/>
 
