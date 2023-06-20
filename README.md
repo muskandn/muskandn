@@ -49,8 +49,8 @@
 
   <p align="center">
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=radical)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&theme=github_dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=github_dark)
    
   <br/>
  <p/>
