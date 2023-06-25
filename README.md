@@ -1,6 +1,5 @@
 
 
-
 <div align="center">
 
 </div>
@@ -67,7 +66,10 @@
 <p align="left">
   
   
- ![leetCode](https://img.shields.io/badge/-muskandn-green?style=flat-square&logo=leetcode&logoColor=white)   [![linkedin](https://img.shields.io/badge/-muskandn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muskandn/)       [![gmail](https://img.shields.io/badge/-muskandn02%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muskandn02@gmail.com)   [![instagram](https://img.shields.io/badge/-%40pic_c.h.a.s.e.r-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pic_c.h.a.s.e.r/) 
+<a href = "https://www.linkedin.com/in/muskandn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/muskandn"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/pic_c.h.a.s.e.r/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://leetcode.com/muskandn/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
 
 </p>
 
