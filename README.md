@@ -9,11 +9,15 @@
 
 <h1 align="center">Hi, I'm Muskan!
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
+
+<div align="center">
  
+[![](https://visitcount.itsvg.in/api?id=muskandn&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- ## About Me
-
+ ## About Me 
 
 - 👨‍💻 I'm a sophomore at **IIIT Gwalior studying Information Technology**
 
