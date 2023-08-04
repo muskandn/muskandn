@@ -7,7 +7,8 @@
 
 </div>
 
-<h1 align="center">Hey there! I'm Muskan
+<h1 align="center">Hey there! </h1>
+<h1 align="center">I'm Muskan</h1>
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
 
 
