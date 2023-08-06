@@ -55,7 +55,7 @@
   <div align="center">
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&theme=github_dark&hide_border=true)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=github_dark&hide_border=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=github_dark&hide_border=true&include_all_contributions=false)
    
  <div/>
 
