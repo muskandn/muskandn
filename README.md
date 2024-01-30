@@ -11,7 +11,7 @@
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
  ## About Me 
 
