@@ -15,7 +15,7 @@
 
  ## About Me 
 
-- 👨‍💻 I'm a sophomore at **IIIT Gwalior studying Information Technology**
+- 👨‍💻 I'm a Prefinal Year Student at **IIIT Gwalior studying Information Technology**
 
 - 🔭 I’m currently working on the field of **Web Development**
 
