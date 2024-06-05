@@ -2,12 +2,13 @@
 
 
 <div align="center">
- 
-<img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+
+<img width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
+<!-- <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding"> -->
 
 </div>
 
-<h1 align="center">Hello! I'm Muskan...</h1>
+<h1 align="center">Hello! I'm Muskan Debnath</h1>
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
 
 
