@@ -8,7 +8,7 @@
 
 </div>
 
-<h1 align="center"><span>Hello there!</span><br/><span>I am Muskan Debnath</span></h1>
+<h1 align="center"><span>Hii there!</span><br/><span>I am Muskan Debnath</span></h1>
 <!-- <h2 align="center">I'm Muskan Debnath</h2> -->
 <h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
 
