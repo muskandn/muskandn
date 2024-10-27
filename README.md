@@ -14,7 +14,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
- ## About Me 
+ ## About Me
 
 - 👨‍💻 I'm a Prefinal Year Student at **IIIT Gwalior studying Information Technology**
 
