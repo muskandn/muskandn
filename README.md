@@ -7,9 +7,9 @@
 
 </div>
 
-<h1 align="center"><span>Hii there!</span><br/><span>I am Muskan Debnath</span></h1>
+<h1 align="center"><span>Hii there!</span><br/><span>I'm Muskan Debnath</span></h1>
 <!-- <h2 align="center">I'm Muskan Debnath</h2> -->
-<h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies.</h3>
+<h3 align="center">An enthusiastic coder who thrives on exploring cutting-edge technologies</h3>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
