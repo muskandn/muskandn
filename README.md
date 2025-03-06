@@ -1,5 +1,3 @@
-mkn
-
 
 <div align="center">
 
