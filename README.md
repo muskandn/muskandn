@@ -1,4 +1,3 @@
-lh
 <div align="center">
 
 <img width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad">
