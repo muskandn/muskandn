@@ -37,36 +37,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
-## My Github Stars
- 
- 
-<p align="center">
-    <a href="https://github.com/muskandn/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muskandn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-
- 
-</p>
- 
-
-
-
-  <div align="center">
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskandn&show_icons=true&theme=github_dark&hide_border=true)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskandn&layout=compact&theme=github_dark&hide_border=true)
-   
- <div/>
-
-<div align="center">
- 
-[![](https://visitcount.itsvg.in/api?id=muskandn&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<br/>
-<br/>
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
 
  ## Connect Me
   
